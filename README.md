@@ -10,7 +10,7 @@ A planilha foi criada para ser intuitiva e direta, permitindo que o usuário ins
 
 ## 🚀 Funcionalidades da Planilha
 
-* **Simulação de suggestao de aporte:** Insira seu Salario, para que o simulador sugira um aporte inicial que é de 30% do salario.
+* **Simulação de sugestao de aporte:** Insira seu Salario, para que o simulador sugira um aporte inicial que é de 30% do salario.
 * **Simulação Personalizada:** Insira seu investimento inicial(aporte mensal) e prazo para simular diferentes cenários.
 * **Cálculo Automatizado:** A planilha calcula automaticamente o patrimônio total e os dividendos mensais.
 * **Análise de Retorno:** Visualize o crescimento do seu capital e a renda passiva gerada pelos dividendos.
